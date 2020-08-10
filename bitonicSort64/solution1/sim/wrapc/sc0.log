@@ -1,0 +1,8 @@
+   Build using "/data/tools/Xilinx/Vivado/2019.1/tps/lnx64/gcc-6.2.0/bin/g++"
+   Compiling apatb_bitonicSort64.cpp
+   Compiling bitonicSort64.cpp_pre.cpp.tb.cpp
+   Compiling bitonic32Inc.cpp_pre.cpp.tb.cpp
+   Compiling bitonic32Dec.cpp_pre.cpp.tb.cpp
+   Compiling bitonicSort64_tb.cpp_pre.cpp.tb.cpp
+   Compiling bitonicFun.cpp_pre.cpp.tb.cpp
+   Generating cosim.tv.exe

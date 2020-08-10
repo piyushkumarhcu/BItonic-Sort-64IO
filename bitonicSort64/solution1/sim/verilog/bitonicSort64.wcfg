@@ -1,0 +1,2809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="bitonicSort64.wdb" id="1">
+         <top_modules>
+            <top_module name="apatb_bitonicSort64_top" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+   </zoom_setting>
+   <column_width_setting>
+   </column_width_setting>
+   <WVObjectSize size="2" />
+   <wvobject type="group" fp_name="group1">
+      <obj_property name="label">Design Top Signals</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject type="group" fp_name="group2">
+         <obj_property name="label">C Outputs</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+         <wvobject type="group" fp_name="group3">
+            <obj_property name="label">out(wire)</obj_property>
+            <obj_property name="DisplayName">label</obj_property>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_63_V_ap_vld">
+               <obj_property name="ElementShortName">out_63_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_63_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_63_V">
+               <obj_property name="ElementShortName">out_63_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_63_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_62_V_ap_vld">
+               <obj_property name="ElementShortName">out_62_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_62_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_62_V">
+               <obj_property name="ElementShortName">out_62_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_62_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_61_V_ap_vld">
+               <obj_property name="ElementShortName">out_61_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_61_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_61_V">
+               <obj_property name="ElementShortName">out_61_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_61_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_60_V_ap_vld">
+               <obj_property name="ElementShortName">out_60_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_60_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_60_V">
+               <obj_property name="ElementShortName">out_60_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_60_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_59_V_ap_vld">
+               <obj_property name="ElementShortName">out_59_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_59_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_59_V">
+               <obj_property name="ElementShortName">out_59_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_59_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_58_V_ap_vld">
+               <obj_property name="ElementShortName">out_58_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_58_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_58_V">
+               <obj_property name="ElementShortName">out_58_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_58_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_57_V_ap_vld">
+               <obj_property name="ElementShortName">out_57_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_57_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_57_V">
+               <obj_property name="ElementShortName">out_57_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_57_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_56_V_ap_vld">
+               <obj_property name="ElementShortName">out_56_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_56_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_56_V">
+               <obj_property name="ElementShortName">out_56_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_56_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_55_V_ap_vld">
+               <obj_property name="ElementShortName">out_55_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_55_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_55_V">
+               <obj_property name="ElementShortName">out_55_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_55_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_54_V_ap_vld">
+               <obj_property name="ElementShortName">out_54_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_54_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_54_V">
+               <obj_property name="ElementShortName">out_54_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_54_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_53_V_ap_vld">
+               <obj_property name="ElementShortName">out_53_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_53_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_53_V">
+               <obj_property name="ElementShortName">out_53_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_53_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_52_V_ap_vld">
+               <obj_property name="ElementShortName">out_52_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_52_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_52_V">
+               <obj_property name="ElementShortName">out_52_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_52_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_51_V_ap_vld">
+               <obj_property name="ElementShortName">out_51_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_51_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_51_V">
+               <obj_property name="ElementShortName">out_51_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_51_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_50_V_ap_vld">
+               <obj_property name="ElementShortName">out_50_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_50_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_50_V">
+               <obj_property name="ElementShortName">out_50_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_50_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_49_V_ap_vld">
+               <obj_property name="ElementShortName">out_49_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_49_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_49_V">
+               <obj_property name="ElementShortName">out_49_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_49_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_48_V_ap_vld">
+               <obj_property name="ElementShortName">out_48_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_48_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_48_V">
+               <obj_property name="ElementShortName">out_48_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_48_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_47_V_ap_vld">
+               <obj_property name="ElementShortName">out_47_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_47_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_47_V">
+               <obj_property name="ElementShortName">out_47_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_47_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_46_V_ap_vld">
+               <obj_property name="ElementShortName">out_46_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_46_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_46_V">
+               <obj_property name="ElementShortName">out_46_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_46_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_45_V_ap_vld">
+               <obj_property name="ElementShortName">out_45_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_45_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_45_V">
+               <obj_property name="ElementShortName">out_45_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_45_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_44_V_ap_vld">
+               <obj_property name="ElementShortName">out_44_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_44_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_44_V">
+               <obj_property name="ElementShortName">out_44_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_44_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_43_V_ap_vld">
+               <obj_property name="ElementShortName">out_43_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_43_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_43_V">
+               <obj_property name="ElementShortName">out_43_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_43_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_42_V_ap_vld">
+               <obj_property name="ElementShortName">out_42_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_42_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_42_V">
+               <obj_property name="ElementShortName">out_42_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_42_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_41_V_ap_vld">
+               <obj_property name="ElementShortName">out_41_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_41_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_41_V">
+               <obj_property name="ElementShortName">out_41_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_41_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_40_V_ap_vld">
+               <obj_property name="ElementShortName">out_40_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_40_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_40_V">
+               <obj_property name="ElementShortName">out_40_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_40_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_39_V_ap_vld">
+               <obj_property name="ElementShortName">out_39_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_39_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_39_V">
+               <obj_property name="ElementShortName">out_39_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_39_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_38_V_ap_vld">
+               <obj_property name="ElementShortName">out_38_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_38_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_38_V">
+               <obj_property name="ElementShortName">out_38_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_38_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_37_V_ap_vld">
+               <obj_property name="ElementShortName">out_37_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_37_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_37_V">
+               <obj_property name="ElementShortName">out_37_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_37_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_36_V_ap_vld">
+               <obj_property name="ElementShortName">out_36_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_36_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_36_V">
+               <obj_property name="ElementShortName">out_36_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_36_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_35_V_ap_vld">
+               <obj_property name="ElementShortName">out_35_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_35_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_35_V">
+               <obj_property name="ElementShortName">out_35_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_35_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_34_V_ap_vld">
+               <obj_property name="ElementShortName">out_34_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_34_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_34_V">
+               <obj_property name="ElementShortName">out_34_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_34_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_33_V_ap_vld">
+               <obj_property name="ElementShortName">out_33_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_33_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_33_V">
+               <obj_property name="ElementShortName">out_33_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_33_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_32_V_ap_vld">
+               <obj_property name="ElementShortName">out_32_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_32_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_32_V">
+               <obj_property name="ElementShortName">out_32_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_32_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_31_V_ap_vld">
+               <obj_property name="ElementShortName">out_31_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_31_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_31_V">
+               <obj_property name="ElementShortName">out_31_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_31_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_30_V_ap_vld">
+               <obj_property name="ElementShortName">out_30_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_30_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_30_V">
+               <obj_property name="ElementShortName">out_30_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_30_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_29_V_ap_vld">
+               <obj_property name="ElementShortName">out_29_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_29_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_29_V">
+               <obj_property name="ElementShortName">out_29_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_29_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_28_V_ap_vld">
+               <obj_property name="ElementShortName">out_28_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_28_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_28_V">
+               <obj_property name="ElementShortName">out_28_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_28_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_27_V_ap_vld">
+               <obj_property name="ElementShortName">out_27_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_27_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_27_V">
+               <obj_property name="ElementShortName">out_27_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_27_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_26_V_ap_vld">
+               <obj_property name="ElementShortName">out_26_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_26_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_26_V">
+               <obj_property name="ElementShortName">out_26_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_26_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_25_V_ap_vld">
+               <obj_property name="ElementShortName">out_25_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_25_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_25_V">
+               <obj_property name="ElementShortName">out_25_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_25_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_24_V_ap_vld">
+               <obj_property name="ElementShortName">out_24_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_24_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_24_V">
+               <obj_property name="ElementShortName">out_24_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_24_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_23_V_ap_vld">
+               <obj_property name="ElementShortName">out_23_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_23_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_23_V">
+               <obj_property name="ElementShortName">out_23_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_23_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_22_V_ap_vld">
+               <obj_property name="ElementShortName">out_22_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_22_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_22_V">
+               <obj_property name="ElementShortName">out_22_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_22_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_21_V_ap_vld">
+               <obj_property name="ElementShortName">out_21_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_21_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_21_V">
+               <obj_property name="ElementShortName">out_21_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_21_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_20_V_ap_vld">
+               <obj_property name="ElementShortName">out_20_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_20_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_20_V">
+               <obj_property name="ElementShortName">out_20_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_20_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_19_V_ap_vld">
+               <obj_property name="ElementShortName">out_19_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_19_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_19_V">
+               <obj_property name="ElementShortName">out_19_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_19_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_18_V_ap_vld">
+               <obj_property name="ElementShortName">out_18_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_18_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_18_V">
+               <obj_property name="ElementShortName">out_18_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_18_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_17_V_ap_vld">
+               <obj_property name="ElementShortName">out_17_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_17_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_17_V">
+               <obj_property name="ElementShortName">out_17_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_17_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_16_V_ap_vld">
+               <obj_property name="ElementShortName">out_16_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_16_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_16_V">
+               <obj_property name="ElementShortName">out_16_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_16_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_15_V_ap_vld">
+               <obj_property name="ElementShortName">out_15_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_15_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_15_V">
+               <obj_property name="ElementShortName">out_15_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_15_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_14_V_ap_vld">
+               <obj_property name="ElementShortName">out_14_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_14_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_14_V">
+               <obj_property name="ElementShortName">out_14_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_14_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_13_V_ap_vld">
+               <obj_property name="ElementShortName">out_13_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_13_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_13_V">
+               <obj_property name="ElementShortName">out_13_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_13_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_12_V_ap_vld">
+               <obj_property name="ElementShortName">out_12_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_12_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_12_V">
+               <obj_property name="ElementShortName">out_12_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_12_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_11_V_ap_vld">
+               <obj_property name="ElementShortName">out_11_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_11_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_11_V">
+               <obj_property name="ElementShortName">out_11_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_11_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_10_V_ap_vld">
+               <obj_property name="ElementShortName">out_10_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_10_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_10_V">
+               <obj_property name="ElementShortName">out_10_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_10_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_9_V_ap_vld">
+               <obj_property name="ElementShortName">out_9_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_9_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_9_V">
+               <obj_property name="ElementShortName">out_9_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_9_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_8_V_ap_vld">
+               <obj_property name="ElementShortName">out_8_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_8_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_8_V">
+               <obj_property name="ElementShortName">out_8_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_8_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_7_V_ap_vld">
+               <obj_property name="ElementShortName">out_7_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_7_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_7_V">
+               <obj_property name="ElementShortName">out_7_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_7_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_6_V_ap_vld">
+               <obj_property name="ElementShortName">out_6_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_6_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_6_V">
+               <obj_property name="ElementShortName">out_6_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_6_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_5_V_ap_vld">
+               <obj_property name="ElementShortName">out_5_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_5_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_5_V">
+               <obj_property name="ElementShortName">out_5_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_5_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_4_V_ap_vld">
+               <obj_property name="ElementShortName">out_4_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_4_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_4_V">
+               <obj_property name="ElementShortName">out_4_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_4_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_3_V_ap_vld">
+               <obj_property name="ElementShortName">out_3_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_3_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_3_V">
+               <obj_property name="ElementShortName">out_3_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_3_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_2_V_ap_vld">
+               <obj_property name="ElementShortName">out_2_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_2_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_2_V">
+               <obj_property name="ElementShortName">out_2_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_2_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_1_V_ap_vld">
+               <obj_property name="ElementShortName">out_1_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_1_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_1_V">
+               <obj_property name="ElementShortName">out_1_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_1_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_0_V_ap_vld">
+               <obj_property name="ElementShortName">out_0_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_0_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_0_V">
+               <obj_property name="ElementShortName">out_0_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_0_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+         </wvobject>
+      </wvobject>
+      <wvobject type="group" fp_name="group132">
+         <obj_property name="label">C Inputs</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+         <wvobject type="group" fp_name="group133">
+            <obj_property name="label">in(wire)</obj_property>
+            <obj_property name="DisplayName">label</obj_property>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_63_V">
+               <obj_property name="ElementShortName">in_63_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_63_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_62_V">
+               <obj_property name="ElementShortName">in_62_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_62_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_61_V">
+               <obj_property name="ElementShortName">in_61_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_61_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_60_V">
+               <obj_property name="ElementShortName">in_60_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_60_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_59_V">
+               <obj_property name="ElementShortName">in_59_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_59_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_58_V">
+               <obj_property name="ElementShortName">in_58_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_58_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_57_V">
+               <obj_property name="ElementShortName">in_57_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_57_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_56_V">
+               <obj_property name="ElementShortName">in_56_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_56_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_55_V">
+               <obj_property name="ElementShortName">in_55_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_55_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_54_V">
+               <obj_property name="ElementShortName">in_54_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_54_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_53_V">
+               <obj_property name="ElementShortName">in_53_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_53_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_52_V">
+               <obj_property name="ElementShortName">in_52_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_52_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_51_V">
+               <obj_property name="ElementShortName">in_51_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_51_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_50_V">
+               <obj_property name="ElementShortName">in_50_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_50_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_49_V">
+               <obj_property name="ElementShortName">in_49_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_49_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_48_V">
+               <obj_property name="ElementShortName">in_48_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_48_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_47_V">
+               <obj_property name="ElementShortName">in_47_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_47_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_46_V">
+               <obj_property name="ElementShortName">in_46_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_46_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_45_V">
+               <obj_property name="ElementShortName">in_45_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_45_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_44_V">
+               <obj_property name="ElementShortName">in_44_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_44_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_43_V">
+               <obj_property name="ElementShortName">in_43_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_43_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_42_V">
+               <obj_property name="ElementShortName">in_42_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_42_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_41_V">
+               <obj_property name="ElementShortName">in_41_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_41_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_40_V">
+               <obj_property name="ElementShortName">in_40_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_40_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_39_V">
+               <obj_property name="ElementShortName">in_39_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_39_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_38_V">
+               <obj_property name="ElementShortName">in_38_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_38_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_37_V">
+               <obj_property name="ElementShortName">in_37_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_37_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_36_V">
+               <obj_property name="ElementShortName">in_36_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_36_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_35_V">
+               <obj_property name="ElementShortName">in_35_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_35_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_34_V">
+               <obj_property name="ElementShortName">in_34_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_34_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_33_V">
+               <obj_property name="ElementShortName">in_33_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_33_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_32_V">
+               <obj_property name="ElementShortName">in_32_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_32_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_31_V">
+               <obj_property name="ElementShortName">in_31_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_31_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_30_V">
+               <obj_property name="ElementShortName">in_30_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_30_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_29_V">
+               <obj_property name="ElementShortName">in_29_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_29_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_28_V">
+               <obj_property name="ElementShortName">in_28_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_28_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_27_V">
+               <obj_property name="ElementShortName">in_27_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_27_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_26_V">
+               <obj_property name="ElementShortName">in_26_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_26_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_25_V">
+               <obj_property name="ElementShortName">in_25_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_25_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_24_V">
+               <obj_property name="ElementShortName">in_24_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_24_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_23_V">
+               <obj_property name="ElementShortName">in_23_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_23_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_22_V">
+               <obj_property name="ElementShortName">in_22_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_22_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_21_V">
+               <obj_property name="ElementShortName">in_21_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_21_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_20_V">
+               <obj_property name="ElementShortName">in_20_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_20_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_19_V">
+               <obj_property name="ElementShortName">in_19_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_19_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_18_V">
+               <obj_property name="ElementShortName">in_18_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_18_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_17_V">
+               <obj_property name="ElementShortName">in_17_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_17_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_16_V">
+               <obj_property name="ElementShortName">in_16_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_16_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_15_V">
+               <obj_property name="ElementShortName">in_15_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_15_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_14_V">
+               <obj_property name="ElementShortName">in_14_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_14_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_13_V">
+               <obj_property name="ElementShortName">in_13_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_13_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_12_V">
+               <obj_property name="ElementShortName">in_12_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_12_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_11_V">
+               <obj_property name="ElementShortName">in_11_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_11_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_10_V">
+               <obj_property name="ElementShortName">in_10_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_10_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_9_V">
+               <obj_property name="ElementShortName">in_9_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_9_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_8_V">
+               <obj_property name="ElementShortName">in_8_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_8_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_7_V">
+               <obj_property name="ElementShortName">in_7_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_7_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_6_V">
+               <obj_property name="ElementShortName">in_6_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_6_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_5_V">
+               <obj_property name="ElementShortName">in_5_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_5_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_4_V">
+               <obj_property name="ElementShortName">in_4_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_4_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_3_V">
+               <obj_property name="ElementShortName">in_3_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_3_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_2_V">
+               <obj_property name="ElementShortName">in_2_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_2_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_1_V">
+               <obj_property name="ElementShortName">in_1_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_1_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_0_V">
+               <obj_property name="ElementShortName">in_0_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_0_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+         </wvobject>
+      </wvobject>
+      <wvobject type="group" fp_name="group198">
+         <obj_property name="label">Block-level IO Handshake</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+         <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/ap_start">
+            <obj_property name="ElementShortName">ap_start</obj_property>
+            <obj_property name="ObjectShortName">ap_start</obj_property>
+         </wvobject>
+         <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/ap_done">
+            <obj_property name="ElementShortName">ap_done</obj_property>
+            <obj_property name="ObjectShortName">ap_done</obj_property>
+         </wvobject>
+         <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/ap_idle">
+            <obj_property name="ElementShortName">ap_idle</obj_property>
+            <obj_property name="ObjectShortName">ap_idle</obj_property>
+         </wvobject>
+         <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/ap_ready">
+            <obj_property name="ElementShortName">ap_ready</obj_property>
+            <obj_property name="ObjectShortName">ap_ready</obj_property>
+         </wvobject>
+      </wvobject>
+      <wvobject type="group" fp_name="group203">
+         <obj_property name="label">Reset</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+         <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/ap_rst">
+            <obj_property name="ElementShortName">ap_rst</obj_property>
+            <obj_property name="ObjectShortName">ap_rst</obj_property>
+         </wvobject>
+      </wvobject>
+      <wvobject type="group" fp_name="group205">
+         <obj_property name="label">Clock</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+         <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/AESL_inst_bitonicSort64/ap_clk">
+            <obj_property name="ElementShortName">ap_clk</obj_property>
+            <obj_property name="ObjectShortName">ap_clk</obj_property>
+         </wvobject>
+      </wvobject>
+   </wvobject>
+   <wvobject type="group" fp_name="group207">
+      <obj_property name="label">Test Bench Signals</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject type="group" fp_name="group208">
+         <obj_property name="label">Internal Signals</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+         <wvobject type="group" fp_name="group209">
+            <obj_property name="label">Simulation Status</obj_property>
+            <obj_property name="DisplayName">label</obj_property>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/AUTOTB_TRANSACTION_NUM">
+               <obj_property name="ElementShortName">AUTOTB_TRANSACTION_NUM[31:0]</obj_property>
+               <obj_property name="ObjectShortName">AUTOTB_TRANSACTION_NUM[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/ready_cnt">
+               <obj_property name="ElementShortName">ready_cnt[31:0]</obj_property>
+               <obj_property name="ObjectShortName">ready_cnt[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/done_cnt">
+               <obj_property name="ElementShortName">done_cnt[31:0]</obj_property>
+               <obj_property name="ObjectShortName">done_cnt[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+         </wvobject>
+         <wvobject type="group" fp_name="group210">
+            <obj_property name="label">Port Depth</obj_property>
+            <obj_property name="DisplayName">label</obj_property>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_0_V">
+               <obj_property name="ElementShortName">LENGTH_in_0_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_0_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_1_V">
+               <obj_property name="ElementShortName">LENGTH_in_1_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_1_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_2_V">
+               <obj_property name="ElementShortName">LENGTH_in_2_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_2_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_3_V">
+               <obj_property name="ElementShortName">LENGTH_in_3_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_3_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_4_V">
+               <obj_property name="ElementShortName">LENGTH_in_4_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_4_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_5_V">
+               <obj_property name="ElementShortName">LENGTH_in_5_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_5_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_6_V">
+               <obj_property name="ElementShortName">LENGTH_in_6_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_6_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_7_V">
+               <obj_property name="ElementShortName">LENGTH_in_7_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_7_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_8_V">
+               <obj_property name="ElementShortName">LENGTH_in_8_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_8_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_9_V">
+               <obj_property name="ElementShortName">LENGTH_in_9_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_9_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_10_V">
+               <obj_property name="ElementShortName">LENGTH_in_10_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_10_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_11_V">
+               <obj_property name="ElementShortName">LENGTH_in_11_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_11_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_12_V">
+               <obj_property name="ElementShortName">LENGTH_in_12_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_12_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_13_V">
+               <obj_property name="ElementShortName">LENGTH_in_13_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_13_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_14_V">
+               <obj_property name="ElementShortName">LENGTH_in_14_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_14_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_15_V">
+               <obj_property name="ElementShortName">LENGTH_in_15_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_15_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_16_V">
+               <obj_property name="ElementShortName">LENGTH_in_16_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_16_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_17_V">
+               <obj_property name="ElementShortName">LENGTH_in_17_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_17_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_18_V">
+               <obj_property name="ElementShortName">LENGTH_in_18_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_18_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_19_V">
+               <obj_property name="ElementShortName">LENGTH_in_19_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_19_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_20_V">
+               <obj_property name="ElementShortName">LENGTH_in_20_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_20_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_21_V">
+               <obj_property name="ElementShortName">LENGTH_in_21_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_21_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_22_V">
+               <obj_property name="ElementShortName">LENGTH_in_22_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_22_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_23_V">
+               <obj_property name="ElementShortName">LENGTH_in_23_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_23_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_24_V">
+               <obj_property name="ElementShortName">LENGTH_in_24_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_24_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_25_V">
+               <obj_property name="ElementShortName">LENGTH_in_25_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_25_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_26_V">
+               <obj_property name="ElementShortName">LENGTH_in_26_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_26_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_27_V">
+               <obj_property name="ElementShortName">LENGTH_in_27_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_27_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_28_V">
+               <obj_property name="ElementShortName">LENGTH_in_28_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_28_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_29_V">
+               <obj_property name="ElementShortName">LENGTH_in_29_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_29_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_30_V">
+               <obj_property name="ElementShortName">LENGTH_in_30_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_30_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_31_V">
+               <obj_property name="ElementShortName">LENGTH_in_31_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_31_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_32_V">
+               <obj_property name="ElementShortName">LENGTH_in_32_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_32_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_33_V">
+               <obj_property name="ElementShortName">LENGTH_in_33_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_33_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_34_V">
+               <obj_property name="ElementShortName">LENGTH_in_34_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_34_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_35_V">
+               <obj_property name="ElementShortName">LENGTH_in_35_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_35_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_36_V">
+               <obj_property name="ElementShortName">LENGTH_in_36_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_36_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_37_V">
+               <obj_property name="ElementShortName">LENGTH_in_37_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_37_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_38_V">
+               <obj_property name="ElementShortName">LENGTH_in_38_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_38_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_39_V">
+               <obj_property name="ElementShortName">LENGTH_in_39_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_39_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_40_V">
+               <obj_property name="ElementShortName">LENGTH_in_40_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_40_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_41_V">
+               <obj_property name="ElementShortName">LENGTH_in_41_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_41_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_42_V">
+               <obj_property name="ElementShortName">LENGTH_in_42_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_42_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_43_V">
+               <obj_property name="ElementShortName">LENGTH_in_43_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_43_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_44_V">
+               <obj_property name="ElementShortName">LENGTH_in_44_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_44_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_45_V">
+               <obj_property name="ElementShortName">LENGTH_in_45_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_45_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_46_V">
+               <obj_property name="ElementShortName">LENGTH_in_46_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_46_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_47_V">
+               <obj_property name="ElementShortName">LENGTH_in_47_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_47_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_48_V">
+               <obj_property name="ElementShortName">LENGTH_in_48_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_48_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_49_V">
+               <obj_property name="ElementShortName">LENGTH_in_49_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_49_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_50_V">
+               <obj_property name="ElementShortName">LENGTH_in_50_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_50_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_51_V">
+               <obj_property name="ElementShortName">LENGTH_in_51_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_51_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_52_V">
+               <obj_property name="ElementShortName">LENGTH_in_52_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_52_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_53_V">
+               <obj_property name="ElementShortName">LENGTH_in_53_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_53_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_54_V">
+               <obj_property name="ElementShortName">LENGTH_in_54_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_54_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_55_V">
+               <obj_property name="ElementShortName">LENGTH_in_55_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_55_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_56_V">
+               <obj_property name="ElementShortName">LENGTH_in_56_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_56_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_57_V">
+               <obj_property name="ElementShortName">LENGTH_in_57_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_57_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_58_V">
+               <obj_property name="ElementShortName">LENGTH_in_58_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_58_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_59_V">
+               <obj_property name="ElementShortName">LENGTH_in_59_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_59_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_60_V">
+               <obj_property name="ElementShortName">LENGTH_in_60_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_60_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_61_V">
+               <obj_property name="ElementShortName">LENGTH_in_61_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_61_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_62_V">
+               <obj_property name="ElementShortName">LENGTH_in_62_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_62_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_in_63_V">
+               <obj_property name="ElementShortName">LENGTH_in_63_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_in_63_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_0_V">
+               <obj_property name="ElementShortName">LENGTH_out_0_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_0_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_1_V">
+               <obj_property name="ElementShortName">LENGTH_out_1_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_1_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_2_V">
+               <obj_property name="ElementShortName">LENGTH_out_2_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_2_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_3_V">
+               <obj_property name="ElementShortName">LENGTH_out_3_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_3_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_4_V">
+               <obj_property name="ElementShortName">LENGTH_out_4_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_4_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_5_V">
+               <obj_property name="ElementShortName">LENGTH_out_5_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_5_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_6_V">
+               <obj_property name="ElementShortName">LENGTH_out_6_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_6_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_7_V">
+               <obj_property name="ElementShortName">LENGTH_out_7_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_7_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_8_V">
+               <obj_property name="ElementShortName">LENGTH_out_8_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_8_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_9_V">
+               <obj_property name="ElementShortName">LENGTH_out_9_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_9_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_10_V">
+               <obj_property name="ElementShortName">LENGTH_out_10_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_10_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_11_V">
+               <obj_property name="ElementShortName">LENGTH_out_11_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_11_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_12_V">
+               <obj_property name="ElementShortName">LENGTH_out_12_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_12_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_13_V">
+               <obj_property name="ElementShortName">LENGTH_out_13_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_13_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_14_V">
+               <obj_property name="ElementShortName">LENGTH_out_14_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_14_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_15_V">
+               <obj_property name="ElementShortName">LENGTH_out_15_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_15_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_16_V">
+               <obj_property name="ElementShortName">LENGTH_out_16_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_16_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_17_V">
+               <obj_property name="ElementShortName">LENGTH_out_17_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_17_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_18_V">
+               <obj_property name="ElementShortName">LENGTH_out_18_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_18_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_19_V">
+               <obj_property name="ElementShortName">LENGTH_out_19_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_19_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_20_V">
+               <obj_property name="ElementShortName">LENGTH_out_20_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_20_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_21_V">
+               <obj_property name="ElementShortName">LENGTH_out_21_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_21_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_22_V">
+               <obj_property name="ElementShortName">LENGTH_out_22_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_22_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_23_V">
+               <obj_property name="ElementShortName">LENGTH_out_23_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_23_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_24_V">
+               <obj_property name="ElementShortName">LENGTH_out_24_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_24_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_25_V">
+               <obj_property name="ElementShortName">LENGTH_out_25_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_25_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_26_V">
+               <obj_property name="ElementShortName">LENGTH_out_26_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_26_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_27_V">
+               <obj_property name="ElementShortName">LENGTH_out_27_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_27_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_28_V">
+               <obj_property name="ElementShortName">LENGTH_out_28_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_28_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_29_V">
+               <obj_property name="ElementShortName">LENGTH_out_29_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_29_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_30_V">
+               <obj_property name="ElementShortName">LENGTH_out_30_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_30_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_31_V">
+               <obj_property name="ElementShortName">LENGTH_out_31_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_31_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_32_V">
+               <obj_property name="ElementShortName">LENGTH_out_32_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_32_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_33_V">
+               <obj_property name="ElementShortName">LENGTH_out_33_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_33_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_34_V">
+               <obj_property name="ElementShortName">LENGTH_out_34_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_34_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_35_V">
+               <obj_property name="ElementShortName">LENGTH_out_35_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_35_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_36_V">
+               <obj_property name="ElementShortName">LENGTH_out_36_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_36_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_37_V">
+               <obj_property name="ElementShortName">LENGTH_out_37_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_37_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_38_V">
+               <obj_property name="ElementShortName">LENGTH_out_38_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_38_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_39_V">
+               <obj_property name="ElementShortName">LENGTH_out_39_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_39_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_40_V">
+               <obj_property name="ElementShortName">LENGTH_out_40_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_40_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_41_V">
+               <obj_property name="ElementShortName">LENGTH_out_41_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_41_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_42_V">
+               <obj_property name="ElementShortName">LENGTH_out_42_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_42_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_43_V">
+               <obj_property name="ElementShortName">LENGTH_out_43_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_43_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_44_V">
+               <obj_property name="ElementShortName">LENGTH_out_44_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_44_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_45_V">
+               <obj_property name="ElementShortName">LENGTH_out_45_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_45_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_46_V">
+               <obj_property name="ElementShortName">LENGTH_out_46_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_46_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_47_V">
+               <obj_property name="ElementShortName">LENGTH_out_47_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_47_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_48_V">
+               <obj_property name="ElementShortName">LENGTH_out_48_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_48_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_49_V">
+               <obj_property name="ElementShortName">LENGTH_out_49_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_49_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_50_V">
+               <obj_property name="ElementShortName">LENGTH_out_50_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_50_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_51_V">
+               <obj_property name="ElementShortName">LENGTH_out_51_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_51_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_52_V">
+               <obj_property name="ElementShortName">LENGTH_out_52_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_52_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_53_V">
+               <obj_property name="ElementShortName">LENGTH_out_53_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_53_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_54_V">
+               <obj_property name="ElementShortName">LENGTH_out_54_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_54_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_55_V">
+               <obj_property name="ElementShortName">LENGTH_out_55_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_55_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_56_V">
+               <obj_property name="ElementShortName">LENGTH_out_56_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_56_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_57_V">
+               <obj_property name="ElementShortName">LENGTH_out_57_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_57_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_58_V">
+               <obj_property name="ElementShortName">LENGTH_out_58_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_58_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_59_V">
+               <obj_property name="ElementShortName">LENGTH_out_59_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_59_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_60_V">
+               <obj_property name="ElementShortName">LENGTH_out_60_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_60_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_61_V">
+               <obj_property name="ElementShortName">LENGTH_out_61_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_61_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_62_V">
+               <obj_property name="ElementShortName">LENGTH_out_62_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_62_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/LENGTH_out_63_V">
+               <obj_property name="ElementShortName">LENGTH_out_63_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">LENGTH_out_63_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+         </wvobject>
+      </wvobject>
+      <wvobject type="group" fp_name="group342">
+         <obj_property name="label">C Outputs</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+         <wvobject type="group" fp_name="group343">
+            <obj_property name="label">out(wire)</obj_property>
+            <obj_property name="DisplayName">label</obj_property>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_63_V_ap_vld">
+               <obj_property name="ElementShortName">out_63_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_63_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_63_V">
+               <obj_property name="ElementShortName">out_63_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_63_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_62_V_ap_vld">
+               <obj_property name="ElementShortName">out_62_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_62_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_62_V">
+               <obj_property name="ElementShortName">out_62_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_62_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_61_V_ap_vld">
+               <obj_property name="ElementShortName">out_61_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_61_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_61_V">
+               <obj_property name="ElementShortName">out_61_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_61_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_60_V_ap_vld">
+               <obj_property name="ElementShortName">out_60_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_60_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_60_V">
+               <obj_property name="ElementShortName">out_60_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_60_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_59_V_ap_vld">
+               <obj_property name="ElementShortName">out_59_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_59_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_59_V">
+               <obj_property name="ElementShortName">out_59_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_59_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_58_V_ap_vld">
+               <obj_property name="ElementShortName">out_58_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_58_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_58_V">
+               <obj_property name="ElementShortName">out_58_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_58_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_57_V_ap_vld">
+               <obj_property name="ElementShortName">out_57_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_57_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_57_V">
+               <obj_property name="ElementShortName">out_57_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_57_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_56_V_ap_vld">
+               <obj_property name="ElementShortName">out_56_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_56_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_56_V">
+               <obj_property name="ElementShortName">out_56_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_56_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_55_V_ap_vld">
+               <obj_property name="ElementShortName">out_55_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_55_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_55_V">
+               <obj_property name="ElementShortName">out_55_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_55_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_54_V_ap_vld">
+               <obj_property name="ElementShortName">out_54_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_54_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_54_V">
+               <obj_property name="ElementShortName">out_54_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_54_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_53_V_ap_vld">
+               <obj_property name="ElementShortName">out_53_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_53_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_53_V">
+               <obj_property name="ElementShortName">out_53_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_53_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_52_V_ap_vld">
+               <obj_property name="ElementShortName">out_52_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_52_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_52_V">
+               <obj_property name="ElementShortName">out_52_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_52_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_51_V_ap_vld">
+               <obj_property name="ElementShortName">out_51_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_51_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_51_V">
+               <obj_property name="ElementShortName">out_51_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_51_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_50_V_ap_vld">
+               <obj_property name="ElementShortName">out_50_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_50_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_50_V">
+               <obj_property name="ElementShortName">out_50_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_50_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_49_V_ap_vld">
+               <obj_property name="ElementShortName">out_49_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_49_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_49_V">
+               <obj_property name="ElementShortName">out_49_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_49_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_48_V_ap_vld">
+               <obj_property name="ElementShortName">out_48_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_48_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_48_V">
+               <obj_property name="ElementShortName">out_48_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_48_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_47_V_ap_vld">
+               <obj_property name="ElementShortName">out_47_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_47_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_47_V">
+               <obj_property name="ElementShortName">out_47_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_47_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_46_V_ap_vld">
+               <obj_property name="ElementShortName">out_46_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_46_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_46_V">
+               <obj_property name="ElementShortName">out_46_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_46_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_45_V_ap_vld">
+               <obj_property name="ElementShortName">out_45_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_45_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_45_V">
+               <obj_property name="ElementShortName">out_45_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_45_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_44_V_ap_vld">
+               <obj_property name="ElementShortName">out_44_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_44_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_44_V">
+               <obj_property name="ElementShortName">out_44_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_44_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_43_V_ap_vld">
+               <obj_property name="ElementShortName">out_43_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_43_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_43_V">
+               <obj_property name="ElementShortName">out_43_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_43_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_42_V_ap_vld">
+               <obj_property name="ElementShortName">out_42_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_42_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_42_V">
+               <obj_property name="ElementShortName">out_42_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_42_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_41_V_ap_vld">
+               <obj_property name="ElementShortName">out_41_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_41_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_41_V">
+               <obj_property name="ElementShortName">out_41_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_41_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_40_V_ap_vld">
+               <obj_property name="ElementShortName">out_40_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_40_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_40_V">
+               <obj_property name="ElementShortName">out_40_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_40_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_39_V_ap_vld">
+               <obj_property name="ElementShortName">out_39_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_39_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_39_V">
+               <obj_property name="ElementShortName">out_39_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_39_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_38_V_ap_vld">
+               <obj_property name="ElementShortName">out_38_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_38_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_38_V">
+               <obj_property name="ElementShortName">out_38_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_38_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_37_V_ap_vld">
+               <obj_property name="ElementShortName">out_37_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_37_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_37_V">
+               <obj_property name="ElementShortName">out_37_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_37_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_36_V_ap_vld">
+               <obj_property name="ElementShortName">out_36_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_36_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_36_V">
+               <obj_property name="ElementShortName">out_36_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_36_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_35_V_ap_vld">
+               <obj_property name="ElementShortName">out_35_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_35_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_35_V">
+               <obj_property name="ElementShortName">out_35_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_35_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_34_V_ap_vld">
+               <obj_property name="ElementShortName">out_34_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_34_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_34_V">
+               <obj_property name="ElementShortName">out_34_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_34_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_33_V_ap_vld">
+               <obj_property name="ElementShortName">out_33_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_33_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_33_V">
+               <obj_property name="ElementShortName">out_33_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_33_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_32_V_ap_vld">
+               <obj_property name="ElementShortName">out_32_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_32_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_32_V">
+               <obj_property name="ElementShortName">out_32_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_32_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_31_V_ap_vld">
+               <obj_property name="ElementShortName">out_31_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_31_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_31_V">
+               <obj_property name="ElementShortName">out_31_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_31_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_30_V_ap_vld">
+               <obj_property name="ElementShortName">out_30_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_30_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_30_V">
+               <obj_property name="ElementShortName">out_30_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_30_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_29_V_ap_vld">
+               <obj_property name="ElementShortName">out_29_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_29_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_29_V">
+               <obj_property name="ElementShortName">out_29_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_29_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_28_V_ap_vld">
+               <obj_property name="ElementShortName">out_28_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_28_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_28_V">
+               <obj_property name="ElementShortName">out_28_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_28_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_27_V_ap_vld">
+               <obj_property name="ElementShortName">out_27_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_27_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_27_V">
+               <obj_property name="ElementShortName">out_27_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_27_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_26_V_ap_vld">
+               <obj_property name="ElementShortName">out_26_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_26_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_26_V">
+               <obj_property name="ElementShortName">out_26_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_26_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_25_V_ap_vld">
+               <obj_property name="ElementShortName">out_25_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_25_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_25_V">
+               <obj_property name="ElementShortName">out_25_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_25_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_24_V_ap_vld">
+               <obj_property name="ElementShortName">out_24_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_24_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_24_V">
+               <obj_property name="ElementShortName">out_24_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_24_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_23_V_ap_vld">
+               <obj_property name="ElementShortName">out_23_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_23_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_23_V">
+               <obj_property name="ElementShortName">out_23_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_23_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_22_V_ap_vld">
+               <obj_property name="ElementShortName">out_22_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_22_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_22_V">
+               <obj_property name="ElementShortName">out_22_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_22_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_21_V_ap_vld">
+               <obj_property name="ElementShortName">out_21_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_21_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_21_V">
+               <obj_property name="ElementShortName">out_21_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_21_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_20_V_ap_vld">
+               <obj_property name="ElementShortName">out_20_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_20_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_20_V">
+               <obj_property name="ElementShortName">out_20_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_20_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_19_V_ap_vld">
+               <obj_property name="ElementShortName">out_19_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_19_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_19_V">
+               <obj_property name="ElementShortName">out_19_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_19_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_18_V_ap_vld">
+               <obj_property name="ElementShortName">out_18_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_18_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_18_V">
+               <obj_property name="ElementShortName">out_18_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_18_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_17_V_ap_vld">
+               <obj_property name="ElementShortName">out_17_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_17_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_17_V">
+               <obj_property name="ElementShortName">out_17_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_17_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_16_V_ap_vld">
+               <obj_property name="ElementShortName">out_16_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_16_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_16_V">
+               <obj_property name="ElementShortName">out_16_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_16_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_15_V_ap_vld">
+               <obj_property name="ElementShortName">out_15_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_15_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_15_V">
+               <obj_property name="ElementShortName">out_15_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_15_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_14_V_ap_vld">
+               <obj_property name="ElementShortName">out_14_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_14_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_14_V">
+               <obj_property name="ElementShortName">out_14_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_14_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_13_V_ap_vld">
+               <obj_property name="ElementShortName">out_13_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_13_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_13_V">
+               <obj_property name="ElementShortName">out_13_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_13_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_12_V_ap_vld">
+               <obj_property name="ElementShortName">out_12_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_12_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_12_V">
+               <obj_property name="ElementShortName">out_12_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_12_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_11_V_ap_vld">
+               <obj_property name="ElementShortName">out_11_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_11_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_11_V">
+               <obj_property name="ElementShortName">out_11_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_11_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_10_V_ap_vld">
+               <obj_property name="ElementShortName">out_10_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_10_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_10_V">
+               <obj_property name="ElementShortName">out_10_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_10_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_9_V_ap_vld">
+               <obj_property name="ElementShortName">out_9_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_9_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_9_V">
+               <obj_property name="ElementShortName">out_9_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_9_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_8_V_ap_vld">
+               <obj_property name="ElementShortName">out_8_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_8_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_8_V">
+               <obj_property name="ElementShortName">out_8_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_8_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_7_V_ap_vld">
+               <obj_property name="ElementShortName">out_7_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_7_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_7_V">
+               <obj_property name="ElementShortName">out_7_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_7_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_6_V_ap_vld">
+               <obj_property name="ElementShortName">out_6_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_6_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_6_V">
+               <obj_property name="ElementShortName">out_6_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_6_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_5_V_ap_vld">
+               <obj_property name="ElementShortName">out_5_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_5_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_5_V">
+               <obj_property name="ElementShortName">out_5_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_5_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_4_V_ap_vld">
+               <obj_property name="ElementShortName">out_4_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_4_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_4_V">
+               <obj_property name="ElementShortName">out_4_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_4_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_3_V_ap_vld">
+               <obj_property name="ElementShortName">out_3_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_3_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_3_V">
+               <obj_property name="ElementShortName">out_3_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_3_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_2_V_ap_vld">
+               <obj_property name="ElementShortName">out_2_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_2_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_2_V">
+               <obj_property name="ElementShortName">out_2_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_2_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_1_V_ap_vld">
+               <obj_property name="ElementShortName">out_1_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_1_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_1_V">
+               <obj_property name="ElementShortName">out_1_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_1_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="logic" fp_name="/apatb_bitonicSort64_top/out_0_V_ap_vld">
+               <obj_property name="ElementShortName">out_0_V_ap_vld</obj_property>
+               <obj_property name="ObjectShortName">out_0_V_ap_vld</obj_property>
+               <obj_property name="CustomSignalColor">#ffff00</obj_property>
+               <obj_property name="UseCustomSignalColor">true</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/out_0_V">
+               <obj_property name="ElementShortName">out_0_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">out_0_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+         </wvobject>
+      </wvobject>
+      <wvobject type="group" fp_name="group472">
+         <obj_property name="label">C Inputs</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+         <wvobject type="group" fp_name="group473">
+            <obj_property name="label">in(wire)</obj_property>
+            <obj_property name="DisplayName">label</obj_property>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_63_V">
+               <obj_property name="ElementShortName">in_63_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_63_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_62_V">
+               <obj_property name="ElementShortName">in_62_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_62_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_61_V">
+               <obj_property name="ElementShortName">in_61_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_61_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_60_V">
+               <obj_property name="ElementShortName">in_60_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_60_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_59_V">
+               <obj_property name="ElementShortName">in_59_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_59_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_58_V">
+               <obj_property name="ElementShortName">in_58_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_58_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_57_V">
+               <obj_property name="ElementShortName">in_57_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_57_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_56_V">
+               <obj_property name="ElementShortName">in_56_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_56_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_55_V">
+               <obj_property name="ElementShortName">in_55_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_55_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_54_V">
+               <obj_property name="ElementShortName">in_54_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_54_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_53_V">
+               <obj_property name="ElementShortName">in_53_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_53_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_52_V">
+               <obj_property name="ElementShortName">in_52_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_52_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_51_V">
+               <obj_property name="ElementShortName">in_51_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_51_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_50_V">
+               <obj_property name="ElementShortName">in_50_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_50_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_49_V">
+               <obj_property name="ElementShortName">in_49_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_49_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_48_V">
+               <obj_property name="ElementShortName">in_48_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_48_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_47_V">
+               <obj_property name="ElementShortName">in_47_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_47_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_46_V">
+               <obj_property name="ElementShortName">in_46_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_46_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_45_V">
+               <obj_property name="ElementShortName">in_45_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_45_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_44_V">
+               <obj_property name="ElementShortName">in_44_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_44_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_43_V">
+               <obj_property name="ElementShortName">in_43_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_43_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_42_V">
+               <obj_property name="ElementShortName">in_42_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_42_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_41_V">
+               <obj_property name="ElementShortName">in_41_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_41_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_40_V">
+               <obj_property name="ElementShortName">in_40_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_40_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_39_V">
+               <obj_property name="ElementShortName">in_39_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_39_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_38_V">
+               <obj_property name="ElementShortName">in_38_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_38_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_37_V">
+               <obj_property name="ElementShortName">in_37_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_37_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_36_V">
+               <obj_property name="ElementShortName">in_36_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_36_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_35_V">
+               <obj_property name="ElementShortName">in_35_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_35_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_34_V">
+               <obj_property name="ElementShortName">in_34_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_34_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_33_V">
+               <obj_property name="ElementShortName">in_33_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_33_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_32_V">
+               <obj_property name="ElementShortName">in_32_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_32_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_31_V">
+               <obj_property name="ElementShortName">in_31_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_31_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_30_V">
+               <obj_property name="ElementShortName">in_30_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_30_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_29_V">
+               <obj_property name="ElementShortName">in_29_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_29_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_28_V">
+               <obj_property name="ElementShortName">in_28_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_28_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_27_V">
+               <obj_property name="ElementShortName">in_27_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_27_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_26_V">
+               <obj_property name="ElementShortName">in_26_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_26_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_25_V">
+               <obj_property name="ElementShortName">in_25_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_25_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_24_V">
+               <obj_property name="ElementShortName">in_24_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_24_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_23_V">
+               <obj_property name="ElementShortName">in_23_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_23_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_22_V">
+               <obj_property name="ElementShortName">in_22_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_22_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_21_V">
+               <obj_property name="ElementShortName">in_21_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_21_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_20_V">
+               <obj_property name="ElementShortName">in_20_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_20_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_19_V">
+               <obj_property name="ElementShortName">in_19_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_19_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_18_V">
+               <obj_property name="ElementShortName">in_18_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_18_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_17_V">
+               <obj_property name="ElementShortName">in_17_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_17_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_16_V">
+               <obj_property name="ElementShortName">in_16_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_16_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_15_V">
+               <obj_property name="ElementShortName">in_15_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_15_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_14_V">
+               <obj_property name="ElementShortName">in_14_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_14_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_13_V">
+               <obj_property name="ElementShortName">in_13_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_13_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_12_V">
+               <obj_property name="ElementShortName">in_12_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_12_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_11_V">
+               <obj_property name="ElementShortName">in_11_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_11_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_10_V">
+               <obj_property name="ElementShortName">in_10_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_10_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_9_V">
+               <obj_property name="ElementShortName">in_9_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_9_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_8_V">
+               <obj_property name="ElementShortName">in_8_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_8_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_7_V">
+               <obj_property name="ElementShortName">in_7_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_7_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_6_V">
+               <obj_property name="ElementShortName">in_6_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_6_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_5_V">
+               <obj_property name="ElementShortName">in_5_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_5_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_4_V">
+               <obj_property name="ElementShortName">in_4_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_4_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_3_V">
+               <obj_property name="ElementShortName">in_3_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_3_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_2_V">
+               <obj_property name="ElementShortName">in_2_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_2_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_1_V">
+               <obj_property name="ElementShortName">in_1_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_1_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+            <wvobject type="array" fp_name="/apatb_bitonicSort64_top/in_0_V">
+               <obj_property name="ElementShortName">in_0_V[31:0]</obj_property>
+               <obj_property name="ObjectShortName">in_0_V[31:0]</obj_property>
+               <obj_property name="Radix">HEXRADIX</obj_property>
+            </wvobject>
+         </wvobject>
+      </wvobject>
+   </wvobject>
+</wave_config>

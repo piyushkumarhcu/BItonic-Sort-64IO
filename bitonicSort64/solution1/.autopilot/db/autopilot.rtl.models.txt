@@ -1,0 +1,3 @@
+bitonic32Inc
+bitonic32Dec
+bitonicSort64

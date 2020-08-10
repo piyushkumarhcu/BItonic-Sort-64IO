@@ -1,0 +1,6 @@
+sv work "glbl.v"
+sv xil_defaultlib "bitonicSort64.autotb.v"
+sv xil_defaultlib "bitonic32Inc.v"
+sv xil_defaultlib "bitonic32Dec.v"
+sv xil_defaultlib "bitonicSort64.v"
+

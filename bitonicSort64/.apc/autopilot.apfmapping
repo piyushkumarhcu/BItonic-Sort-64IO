@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="bitonic32Dec.cpp" path="/afs/cern.ch/user/p/piyush/work/bitonic64/src/bitonic32Dec.cpp"/>
+    <originFiles name="bitonic32Inc.cpp" path="/afs/cern.ch/user/p/piyush/work/bitonic64/src/bitonic32Inc.cpp"/>
+    <originFiles name="bitonicFun.cpp" path="/afs/cern.ch/user/p/piyush/work/bitonic64/src/bitonicFun.cpp"/>
+    <originFiles name="bitonicSort.h" path="/afs/cern.ch/user/p/piyush/work/bitonic64/src/bitonicSort.h"/>
+    <originFiles name="bitonicSort64.cpp" path="/afs/cern.ch/user/p/piyush/work/bitonic64/src/bitonicSort64.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="bitonicSort64_tb.cpp" path="/afs/cern.ch/user/p/piyush/work/bitonic64/src/bitonicSort64_tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

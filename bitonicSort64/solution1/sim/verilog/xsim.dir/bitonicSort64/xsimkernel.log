@@ -1,0 +1,7 @@
+Running: xsim.dir/bitonicSort64/xsimk -simmode gui -wdb bitonicSort64.wdb -simrunnum 0 -socket 6785
+Design successfully loaded
+Design Loading Memory Usage: 46636 KB (Peak: 46636 KB)
+Design Loading CPU Usage: 20 ms
+Simulation completed
+Simulation Memory Usage: 137844 KB (Peak: 185908 KB)
+Simulation CPU Usage: 190 ms

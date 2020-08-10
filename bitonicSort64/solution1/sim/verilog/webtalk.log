@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Aug  9 05:11:30 2020
+# Process ID: 1246872
+# Current directory: /afs/cern.ch/user/p/piyush/work/bitonic64/bitonicSort64/solution1/sim/verilog
+# Command line: wbtcv -mode batch -source /afs/cern.ch/user/p/piyush/work/bitonic64/bitonicSort64/solution1/sim/verilog/xsim.dir/bitonicSort64/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /afs/cern.ch/user/p/piyush/work/bitonic64/bitonicSort64/solution1/sim/verilog/webtalk.log
+# Journal file: /afs/cern.ch/user/p/piyush/work/bitonic64/bitonicSort64/solution1/sim/verilog/webtalk.jou
+#-----------------------------------------------------------
+source /afs/cern.ch/user/p/piyush/work/bitonic64/bitonicSort64/solution1/sim/verilog/xsim.dir/bitonicSort64/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] '/afs/cern.ch/user/p/piyush/work/bitonic64/bitonicSort64/solution1/sim/verilog/xsim.dir/bitonicSort64/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Sun Aug  9 05:11:33 2020. For additional details about this file, please refer to the WebTalk help file at /data/tools/Xilinx/Vivado/2019.1/doc/webtalk_introduction.html.
+INFO: [Common 17-206] Exiting Webtalk at Sun Aug  9 05:11:33 2020...

@@ -1,0 +1,886 @@
+INFO: [HLS 200-10] Running '/data/tools/Xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/vivado_hls'
+INFO: [HLS 200-10] For user 'piyush' on host 'uwlogin.cern.ch' (Linux_x86_64 version 3.10.0-1127.10.1.el7.x86_64) on Sun Aug 09 05:10:27 EDT 2020
+INFO: [HLS 200-10] On os "CentOS Linux release 7.8.2003 (Core) "
+INFO: [HLS 200-10] In directory '/afs/cern.ch/user/p/piyush/work/bitonic64'
+Sourcing Tcl script '/afs/cern.ch/user/p/piyush/work/bitonic64/bitonicSort64/solution1/cosim.tcl'
+INFO: [HLS 200-10] Opening project '/afs/cern.ch/user/p/piyush/work/bitonic64/bitonicSort64'.
+INFO: [HLS 200-10] Opening solution '/afs/cern.ch/user/p/piyush/work/bitonic64/bitonicSort64/solution1'.
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 2.778ns.
+INFO: [SYN 201-201] Setting up clock 'default' with an uncertainty of 0.833ns.
+INFO: [HLS 200-10] Setting target device to 'xcvu9p-flgc2104-1-e'
+INFO: [COSIM 212-47] Using XSIM for RTL simulation.
+INFO: [COSIM 212-14] Instrumenting C test bench ...
+   Build using "/data/tools/Xilinx/Vivado/2019.1/tps/lnx64/gcc-6.2.0/bin/g++"
+   Compiling apatb_bitonicSort64.cpp
+   Compiling bitonicSort64.cpp_pre.cpp.tb.cpp
+   Compiling bitonic32Inc.cpp_pre.cpp.tb.cpp
+   Compiling bitonic32Dec.cpp_pre.cpp.tb.cpp
+   Compiling bitonicSort64_tb.cpp_pre.cpp.tb.cpp
+   Compiling bitonicFun.cpp_pre.cpp.tb.cpp
+   Generating cosim.tv.exe
+INFO: [COSIM 212-302] Starting C TB testing ... 
+numbers are: 37
+numbers are: 2
+numbers are: 91
+numbers are: 84
+numbers are: 79
+numbers are: 95
+numbers are: 73
+numbers are: 90
+numbers are: 65
+numbers are: 61
+numbers are: 65
+numbers are: 44
+numbers are: 38
+numbers are: 89
+numbers are: 97
+numbers are: 91
+numbers are: 64
+numbers are: 83
+numbers are: 61
+numbers are: 60
+numbers are: 85
+numbers are: 45
+numbers are: 89
+numbers are: 40
+numbers are: 95
+numbers are: 81
+numbers are: 33
+numbers are: 12
+numbers are: 21
+numbers are: 91
+numbers are: 6
+numbers are: 58
+numbers are: 94
+numbers are: 98
+numbers are: 95
+numbers are: 73
+numbers are: 45
+numbers are: 20
+numbers are: 63
+numbers are: 11
+numbers are: 81
+numbers are: 29
+numbers are: 55
+numbers are: 71
+numbers are: 70
+numbers are: 4
+numbers are: 62
+numbers are: 86
+numbers are: 40
+numbers are: 24
+numbers are: 98
+numbers are: 77
+numbers are: 69
+numbers are: 88
+numbers are: 17
+numbers are: 16
+numbers are: 21
+numbers are: 51
+numbers are: 28
+numbers are: 94
+numbers are: 94
+numbers are: 35
+numbers are: 53
+numbers are: 88
+2
+4
+6
+11
+12
+16
+17
+20
+21
+21
+24
+28
+29
+33
+35
+37
+38
+40
+40
+44
+45
+45
+51
+53
+55
+58
+60
+61
+61
+62
+63
+64
+65
+65
+69
+70
+71
+73
+73
+77
+79
+81
+81
+83
+84
+85
+86
+88
+88
+89
+89
+90
+91
+91
+91
+94
+94
+94
+95
+95
+95
+97
+98
+98
+
+INFO: [COSIM 212-333] Generating C post check test bench ...
+INFO: [COSIM 212-12] Generating RTL test bench ...
+INFO: [COSIM 212-1] *** C/RTL co-simulation file generation completed. ***
+INFO: [COSIM 212-323] Starting verilog simulation. 
+INFO: [COSIM 212-15] Starting XSIM ...
+INFO: [XSIM 43-3496] Using init file passed via -initfile option "/data/tools/Xilinx/Vivado/2019.1/data/xsim/ip/xsim_ip.ini".
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /data/tools/Xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab xil_defaultlib.apatb_bitonicSort64_top glbl -prj bitonicSort64.prj -L smartconnect_v1_0 -L axi_protocol_checker_v1_1_12 -L axi_protocol_checker_v1_1_13 -L axis_protocol_checker_v1_1_11 -L axis_protocol_checker_v1_1_12 -L xil_defaultlib -L unisims_ver -L xpm --initfile /data/tools/Xilinx/Vivado/2019.1/data/xsim/ip/xsim_ip.ini --lib ieee_proposed=./ieee_proposed -s bitonicSort64 -debug wave 
+Multi-threading is on. Using 34 slave threads.
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/afs/cern.ch/user/p/piyush/work/bitonic64/bitonicSort64/solution1/sim/verilog/glbl.v" into library work
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/afs/cern.ch/user/p/piyush/work/bitonic64/bitonicSort64/solution1/sim/verilog/bitonicSort64.autotb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module apatb_bitonicSort64_top
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/afs/cern.ch/user/p/piyush/work/bitonic64/bitonicSort64/solution1/sim/verilog/bitonic32Inc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bitonic32Inc
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/afs/cern.ch/user/p/piyush/work/bitonic64/bitonicSort64/solution1/sim/verilog/bitonic32Dec.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bitonic32Dec
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/afs/cern.ch/user/p/piyush/work/bitonic64/bitonicSort64/solution1/sim/verilog/bitonicSort64.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bitonicSort64
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.bitonic32Inc
+Compiling module xil_defaultlib.bitonic32Dec
+Compiling module xil_defaultlib.bitonicSort64
+Compiling module xil_defaultlib.apatb_bitonicSort64_top
+Compiling module work.glbl
+Built simulation snapshot bitonicSort64
+
+****** Webtalk v2019.1 (64-bit)
+  **** SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+  **** IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+    ** Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+
+source /afs/cern.ch/user/p/piyush/work/bitonic64/bitonicSort64/solution1/sim/verilog/xsim.dir/bitonicSort64/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] '/afs/cern.ch/user/p/piyush/work/bitonic64/bitonicSort64/solution1/sim/verilog/xsim.dir/bitonicSort64/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Sun Aug  9 05:11:20 2020. For additional details about this file, please refer to the WebTalk help file at /data/tools/Xilinx/Vivado/2019.1/doc/webtalk_introduction.html.
+INFO: [Common 17-206] Exiting Webtalk at Sun Aug  9 05:11:20 2020...
+
+****** xsim v2019.1 (64-bit)
+  **** SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+  **** IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+    ** Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+
+source xsim.dir/bitonicSort64/xsim_script.tcl
+# xsim {bitonicSort64} -autoloadwcfg -tclbatch {bitonicSort64.tcl}
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+source bitonicSort64.tcl
+## log_wave -r /
+WARNING: [Simtcl 6-197] One or more HDL objects could not be logged because of object type or size limitations.  To see details please rerun the command with -verbose (-v).
+## set designtopgroup [add_wave_group "Design Top Signals"]
+## set coutputgroup [add_wave_group "C Outputs" -into $designtopgroup]
+## set out_group [add_wave_group out(wire) -into $coutputgroup]
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_63_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_63_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_62_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_62_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_61_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_61_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_60_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_60_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_59_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_59_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_58_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_58_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_57_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_57_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_56_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_56_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_55_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_55_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_54_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_54_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_53_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_53_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_52_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_52_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_51_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_51_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_50_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_50_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_49_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_49_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_48_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_48_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_47_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_47_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_46_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_46_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_45_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_45_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_44_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_44_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_43_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_43_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_42_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_42_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_41_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_41_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_40_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_40_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_39_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_39_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_38_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_38_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_37_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_37_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_36_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_36_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_35_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_35_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_34_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_34_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_33_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_33_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_32_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_32_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_31_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_31_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_30_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_30_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_29_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_29_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_28_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_28_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_27_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_27_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_26_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_26_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_25_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_25_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_24_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_24_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_23_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_23_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_22_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_22_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_21_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_21_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_20_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_20_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_19_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_19_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_18_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_18_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_17_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_17_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_16_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_16_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_15_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_15_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_14_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_14_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_13_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_13_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_12_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_12_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_11_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_11_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_10_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_10_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_9_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_9_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_8_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_8_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_7_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_7_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_6_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_6_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_5_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_5_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_4_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_4_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_3_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_3_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_2_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_2_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_1_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_1_V -into $out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_0_V_ap_vld -into $out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/out_0_V -into $out_group -radix hex
+## set cinputgroup [add_wave_group "C Inputs" -into $designtopgroup]
+## set in_group [add_wave_group in(wire) -into $cinputgroup]
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_63_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_62_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_61_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_60_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_59_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_58_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_57_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_56_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_55_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_54_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_53_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_52_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_51_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_50_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_49_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_48_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_47_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_46_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_45_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_44_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_43_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_42_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_41_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_40_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_39_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_38_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_37_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_36_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_35_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_34_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_33_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_32_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_31_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_30_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_29_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_28_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_27_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_26_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_25_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_24_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_23_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_22_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_21_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_20_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_19_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_18_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_17_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_16_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_15_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_14_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_13_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_12_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_11_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_10_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_9_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_8_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_7_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_6_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_5_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_4_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_3_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_2_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_1_V -into $in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/in_0_V -into $in_group -radix hex
+## set blocksiggroup [add_wave_group "Block-level IO Handshake" -into $designtopgroup]
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/ap_start -into $blocksiggroup
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/ap_done -into $blocksiggroup
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/ap_idle -into $blocksiggroup
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/ap_ready -into $blocksiggroup
+## set resetgroup [add_wave_group "Reset" -into $designtopgroup]
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/ap_rst -into $resetgroup
+## set clockgroup [add_wave_group "Clock" -into $designtopgroup]
+## add_wave /apatb_bitonicSort64_top/AESL_inst_bitonicSort64/ap_clk -into $clockgroup
+## set testbenchgroup [add_wave_group "Test Bench Signals"]
+## set tbinternalsiggroup [add_wave_group "Internal Signals" -into $testbenchgroup]
+## set tb_simstatus_group [add_wave_group "Simulation Status" -into $tbinternalsiggroup]
+## set tb_portdepth_group [add_wave_group "Port Depth" -into $tbinternalsiggroup]
+## add_wave /apatb_bitonicSort64_top/AUTOTB_TRANSACTION_NUM -into $tb_simstatus_group -radix hex
+## add_wave /apatb_bitonicSort64_top/ready_cnt -into $tb_simstatus_group -radix hex
+## add_wave /apatb_bitonicSort64_top/done_cnt -into $tb_simstatus_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_0_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_1_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_2_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_3_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_4_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_5_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_6_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_7_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_8_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_9_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_10_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_11_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_12_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_13_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_14_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_15_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_16_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_17_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_18_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_19_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_20_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_21_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_22_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_23_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_24_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_25_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_26_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_27_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_28_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_29_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_30_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_31_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_32_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_33_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_34_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_35_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_36_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_37_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_38_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_39_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_40_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_41_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_42_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_43_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_44_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_45_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_46_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_47_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_48_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_49_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_50_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_51_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_52_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_53_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_54_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_55_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_56_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_57_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_58_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_59_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_60_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_61_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_62_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_in_63_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_0_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_1_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_2_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_3_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_4_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_5_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_6_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_7_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_8_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_9_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_10_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_11_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_12_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_13_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_14_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_15_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_16_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_17_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_18_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_19_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_20_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_21_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_22_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_23_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_24_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_25_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_26_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_27_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_28_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_29_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_30_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_31_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_32_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_33_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_34_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_35_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_36_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_37_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_38_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_39_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_40_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_41_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_42_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_43_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_44_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_45_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_46_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_47_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_48_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_49_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_50_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_51_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_52_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_53_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_54_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_55_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_56_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_57_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_58_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_59_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_60_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_61_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_62_V -into $tb_portdepth_group -radix hex
+## add_wave /apatb_bitonicSort64_top/LENGTH_out_63_V -into $tb_portdepth_group -radix hex
+## set tbcoutputgroup [add_wave_group "C Outputs" -into $testbenchgroup]
+## set tb_out_group [add_wave_group out(wire) -into $tbcoutputgroup]
+## add_wave /apatb_bitonicSort64_top/out_63_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_63_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_62_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_62_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_61_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_61_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_60_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_60_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_59_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_59_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_58_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_58_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_57_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_57_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_56_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_56_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_55_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_55_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_54_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_54_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_53_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_53_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_52_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_52_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_51_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_51_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_50_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_50_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_49_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_49_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_48_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_48_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_47_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_47_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_46_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_46_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_45_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_45_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_44_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_44_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_43_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_43_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_42_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_42_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_41_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_41_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_40_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_40_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_39_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_39_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_38_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_38_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_37_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_37_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_36_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_36_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_35_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_35_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_34_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_34_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_33_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_33_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_32_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_32_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_31_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_31_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_30_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_30_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_29_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_29_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_28_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_28_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_27_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_27_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_26_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_26_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_25_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_25_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_24_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_24_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_23_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_23_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_22_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_22_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_21_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_21_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_20_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_20_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_19_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_19_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_18_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_18_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_17_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_17_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_16_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_16_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_15_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_15_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_14_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_14_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_13_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_13_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_12_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_12_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_11_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_11_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_10_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_10_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_9_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_9_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_8_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_8_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_7_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_7_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_6_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_6_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_5_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_5_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_4_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_4_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_3_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_3_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_2_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_2_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_1_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_1_V -into $tb_out_group -radix hex
+## add_wave /apatb_bitonicSort64_top/out_0_V_ap_vld -into $tb_out_group -color #ffff00 -radix hex
+## add_wave /apatb_bitonicSort64_top/out_0_V -into $tb_out_group -radix hex
+## set tbcinputgroup [add_wave_group "C Inputs" -into $testbenchgroup]
+## set tb_in_group [add_wave_group in(wire) -into $tbcinputgroup]
+## add_wave /apatb_bitonicSort64_top/in_63_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_62_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_61_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_60_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_59_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_58_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_57_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_56_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_55_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_54_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_53_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_52_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_51_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_50_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_49_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_48_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_47_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_46_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_45_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_44_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_43_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_42_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_41_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_40_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_39_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_38_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_37_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_36_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_35_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_34_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_33_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_32_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_31_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_30_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_29_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_28_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_27_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_26_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_25_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_24_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_23_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_22_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_21_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_20_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_19_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_18_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_17_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_16_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_15_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_14_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_13_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_12_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_11_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_10_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_9_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_8_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_7_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_6_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_5_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_4_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_3_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_2_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_1_V -into $tb_in_group -radix hex
+## add_wave /apatb_bitonicSort64_top/in_0_V -into $tb_in_group -radix hex
+## save_wave_config bitonicSort64.wcfg
+## run all
+////////////////////////////////////////////////////////////////////////////////////
+// Inter-Transaction Progress: Completed Transaction / Total Transaction
+// Intra-Transaction Progress: Measured Latency / Latency Estimation * 100%
+//
+// RTL Simulation : "Inter-Transaction Progress" ["Intra-Transaction Progress"] @ "Simulation Time"
+////////////////////////////////////////////////////////////////////////////////////
+// RTL Simulation : 0 / 1 [0.00%] @ "107000"
+// RTL Simulation : 1 / 1 [100.00%] @ "149000"
+////////////////////////////////////////////////////////////////////////////////////
+$finish called at time : 159850 ps : File "/afs/cern.ch/user/p/piyush/work/bitonic64/bitonicSort64/solution1/sim/verilog/bitonicSort64.autotb.v" Line 7904
+## quit
+INFO: [Common 17-206] Exiting xsim at Sun Aug  9 05:11:33 2020...
+INFO: [COSIM 212-316] Starting C post checking ...
+numbers are: 77
+numbers are: 55
+numbers are: 52
+numbers are: 3
+numbers are: 46
+numbers are: 83
+numbers are: 83
+numbers are: 67
+numbers are: 76
+numbers are: 22
+numbers are: 5
+numbers are: 13
+numbers are: 72
+numbers are: 59
+numbers are: 80
+numbers are: 94
+numbers are: 25
+numbers are: 81
+numbers are: 22
+numbers are: 42
+numbers are: 85
+numbers are: 95
+numbers are: 19
+numbers are: 74
+numbers are: 34
+numbers are: 68
+numbers are: 72
+numbers are: 50
+numbers are: 84
+numbers are: 75
+numbers are: 72
+numbers are: 61
+numbers are: 30
+numbers are: 24
+numbers are: 16
+numbers are: 28
+numbers are: 8
+numbers are: 99
+numbers are: 96
+numbers are: 36
+numbers are: 73
+numbers are: 53
+numbers are: 49
+numbers are: 46
+numbers are: 13
+numbers are: 29
+numbers are: 92
+numbers are: 90
+numbers are: 63
+numbers are: 14
+numbers are: 32
+numbers are: 0
+numbers are: 61
+numbers are: 3
+numbers are: 26
+numbers are: 95
+numbers are: 23
+numbers are: 98
+numbers are: 45
+numbers are: 7
+numbers are: 73
+numbers are: 17
+numbers are: 20
+numbers are: 56
+2
+4
+6
+11
+12
+16
+17
+20
+21
+21
+24
+28
+29
+33
+35
+37
+38
+40
+40
+44
+45
+45
+51
+53
+55
+58
+60
+61
+61
+62
+63
+64
+65
+65
+69
+70
+71
+73
+73
+77
+79
+81
+81
+83
+84
+85
+86
+88
+88
+89
+89
+90
+91
+91
+91
+94
+94
+94
+95
+95
+95
+97
+98
+98
+
+INFO: [COSIM 212-1000] *** C/RTL co-simulation finished: PASS ***
+INFO: [COSIM 212-211] II is measurable only when transaction number is greater than 1 in RTL simulation. Otherwise, they will be marked as all NA. If user wants to calculate them, please make sure there are at least 2 transactions in RTL simulation.
